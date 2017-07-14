@@ -1,8 +1,8 @@
 قہٰناة آلہٰسہٰورسہٰ 🤖👇🏻Source channel
-#{ تہٰعہٰلہٰم آلہٰبہٰرمہٰجةة } (https://telegram.me/Ch_Dev)
+#{ تہٰعہٰلہٰم آلہٰبہٰرمہٰجةة } (https://t.me/DEV_HR)
 ×××××××××××××××××××××××××××××××××××××××××
 مہٰطہٰور آلہٰبہٰوتہٰ 🕵 🤖 👇🏻Dev Bot
-#{ مہٰيہٰمہٰو مہٰشہٰآكہٰل آلہٰعہٰرآقہٰيے } (https://telegram.me/ii02ii)
+#{℡♯HUSSIN MOHAMED<🔨>ے } (https://t.me/llSNll)
 
 *******************************************************************
 ```sh
@@ -29,7 +29,7 @@ git clone https://github.com/ii02ii/Dev_Saqt.git
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
-cd Dev_Saqt
+cd master
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
@@ -70,7 +70,7 @@ redis-server
 
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/ii02ii/Dev_Saqt.git && cd Dev_Saqt && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/ii02ii/master && cd master && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
