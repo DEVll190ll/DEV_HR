@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "🚏- اهلا بك عزيزي WeLcOmE\n سورس دراغون   ( Dragon )\n\n〰 ➗ 〰 ✖️ 〰 ➕ 〰\nDeveloper ⛳️🏒  :\n🔸 - @Aaa1R\nChannel sors 🏈  :\n🔹 - @Ch_Dev \n〰 ➗ 〰 ✖️ 〰 ➕ 〰\n\n🛰 - رابط السورس :\nhttps://github.com/Ali-Dragon/Dragon.git : link in githup",
+  about_text = "🚏- اهلا بك عزيزي WeLcOmE\n هلا في سورس هارلي  ( HURLE )\n\n〰 ➗ 〰 ✖️ 〰 ➕ 〰\nDevHUSSIN ⛳️🏒  :\n🔸 - @LL190LL\nChannel sors 🏈  :\n🔹 - @DEV_HR \n〰 ➗ 〰 ✖️ 〰 ➕ 〰\n\n🛰 - رابط السورس :\https://github.com/DEVll190ll/DEV_HR",
   enabled_plugins = {
     "@LL190LL",
     "DEV_10",
