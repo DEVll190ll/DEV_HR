@@ -96,8 +96,8 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
 #Dev : [@LLSNLL](https://t.me/llSNll)
-#Dev_BOT :  [@ii02ii_bot](https://telegram.me/MX313_bot)
-#Dev_Channel :  [@Ch_Dev](https://telegram.me/DEV_HR)
+#Dev_BOT :  [@MX313_bot](https://telegram.me/MX313_bot)
+#Dev_Channel :  [@DEV_HR](https://telegram.me/DEV_HR)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
 You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
