@@ -25,11 +25,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
-git clone https://github.com/ii02ii/Dev_Saqt.git
+git clone https://github.com/DEVll190ll/DEV_HR
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
-cd master
+cd DEVll190ll
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
@@ -95,9 +95,9 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#Dev : [@ii02ii](https://telegram.me/ii02ii)
-#Dev_BOT :  [@ii02ii_bot](https://telegram.me/ii02ii_bot)
-#Dev_Channel :  [@Ch_Dev](https://telegram.me/Ch_Dev)
+#Dev : [@LLSNLL](https://t.me/llSNll)
+#Dev_BOT :  [@ii02ii_bot](https://telegram.me/MX313_bot)
+#Dev_Channel :  [@Ch_Dev](https://telegram.me/DEV_HR)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
 You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
