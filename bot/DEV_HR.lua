@@ -210,53 +210,54 @@ end
 function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
-  about_text = "🚏- اهلا بك عزيزي WeLcOmE\n هلا في سورس هارلي  ( HURLE )\n\n〰 ➗ 〰 ✖️ 〰 ➕ 〰\nDevHUSSIN ⛳️🏒  :\n🔸 - @LL190LL\nChannel sors 🏈  :\n🔹 - @DEV_HR \n〰 ➗ 〰 ✖️ 〰 ➕ 〰\n\n🛰 - رابط السورس :\https://github.com/DEVll190ll/DEV_HR",
-  enabled_plugins = {
-    "@LL190LL",
-    "DEV_10",
-    "DEV_19",
-    "DEV_2",
-    "addreplay",
-    "DEV_3",
-    "delete",
-    "111",
-    "DEV",
-    "DEV_9",
-    "help",
-    "image",
-    "DEV_16",
-    "DEV_20",
-    "HUSSIN_MOHAMED",
-    "hussin",
-    "DEV_15",
-    "DEV_4",
-    "DEV_6",
-    "DEV_1",
-    "DEV_5",
-    "DEV_7",
-    "DEV_8",
-    "DEV_H",
-    "DEV_11",
-    "DEV_12",
-    "DEV_13",
-    "DEV_14",
-    "DEV_17",
-    "DEV_18",
-  
-    
- },
+  about_text = "آهہۧلآ وسہۧهہۧلآ بہۧكہۧ عہۧزيہۧزي الہۧبہۧطہۧور\n  سہۧورس ديہۧف سہۧآقط  ( Dev_Saqt )\n\n➖🔹➖🔸➖🔹➖\nDeveloper or الہۧبہۧطہۧور :-  🙇🏻🍷 :\n🔸 - @ii02ii \n Channel sors 🏈  :\n🔹 - @Ch_Dev \n➖🔹➖🔸➖🔹\n\n🛰 رآبہۧط آلہۧسہۧورس :\n https://github.com/ii02ii/Dev_Saqt.git : link in githup",
+    enabled_plugins = {
+    "Addbot",
+    "Admin",
+    "All",
+    "Anti_spam",
+    "Ar-broadcast",
+    "Ar_badword",
+    "Ar_banhammer",
+    "Ch_Dev",
+    "Delete",
+    "Get",
+    "Help",
+    "Image",
+    "Ingroup",
+    "Inpm",
+    "Inrealm",
+    "Leave",
+    "Leave_ban",
+    "Lock_arabic",
+    "Lock_english",
+    "Lock_fosh",
+    "Lock_fwd",
+    "Lock_link",
+    "Lock_tag",
+    "Lock_username",
+    "Msg_checks",
+    "Newgroup",
+    "Owners",
+    "Plugins",
+    "Reply",
+    "Set",
+    "Stats",
+    "Sticker23",
+    "Supergroup",
+    "Welcome",
     },
     sudo_users = { 162961370,68726245,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[DEV_HR)(
+    about_text = [[Dev_Saqt)(
 آهہٰلآ وسہٰهلآ بہٰك صہٰديہٰقہٰيے آلےمےطےوريےن
-@LL190LL
-@LLSNLL
-@MX313_BOT
+@ii02ii
+@ss02ss
+@w_Dev_d
 Channel DEV Saqt TEAM
 @Ch_Dev
 آلآصہٰدآر آلہٰثہٰآنہٰي :
-https://github.com/DEVll190ll/DEV_HR
+https://github.com/ii02ii/Dev_Saqt
 ]],
 
     help_text_realm = [[
