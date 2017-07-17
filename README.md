@@ -29,7 +29,7 @@ git clone https://github.com/DEVll190ll/DEV_HR
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
-cd DEVll190ll
+cd DEV_HR
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
